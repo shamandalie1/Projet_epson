@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="reuse_ui" translate="no">
+    <title translate="no">reuse_product</title>
+    <shortdesc><!--This is the file where we have the name of products, components, etc--></shortdesc>
+    <conbody>
+        <p>
+            <table frame="all" rowsep="1" colsep="1" id="table_m3v_sy2_1xb">
+                <tgroup cols="3">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <colspec colname="c2" colnum="2" colwidth="1*"/>
+                    <colspec colname="c3" colnum="3" colwidth="1*"/>
+                    <thead>
+                        <row>
+                            <entry>Product</entry>
+                            <entry>id</entry>
+                            <entry>comment</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry><keyword id="intel_parallel_studio_xe">Intel® Parallel Studio
+                                    XE</keyword></entry>
+                            <entry>intel_parallel_studio_xe</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><keyword id="intel_name_of_company">Intel® </keyword></entry>
+                            <entry id="intel">intel_name_of_the_company</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><keyword id="linux_os">Linux OS</keyword></entry>
+                            <entry>linux_os</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><keyword id="intel_parallel_studio_xe_composer">Intel® Parallel
+                                    Studio XE Composer Edition</keyword></entry>
+                            <entry>intel_parallel_studio_xe_composer</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><keyword id="intel_parallel_studio_xe_professional">Intel®
+                                    Parallel Studio XE Professional Edition</keyword></entry>
+                            <entry>intel_parallel_studio_xe_professional</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><keyword id="intel_parallel_studio_xe_cluster">Intel® Parallel
+                                    Studio XE Cluster Edition</keyword></entry>
+                            <entry>intel_parallel_studio_xe_cluster</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><keyword id="intel_architecture">Intel®
+                                architecture</keyword></entry>
+                            <entry>intel_architecture</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><keyword id="intel_soft_devt_products_eula">Intel® Software
+                                    Development Products EULA</keyword></entry>
+                            <entry>intel_soft_devt_products_eula</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><keyword id="intel_premier_support">Intel® Premier
+                                    Support</keyword></entry>
+                            <entry>intel_premier_support</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><keyword id="intel_soft_devt_products_registration_center">Intel®
+                                    Software Development Products Registration
+                                Center</keyword></entry>
+                            <entry>intel_soft_devt_products_registration_center</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><keyword id="graphical_user_interface">Graphical User
+                                    Interface</keyword></entry>
+                            <entry>graphical_user_interface</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><keyword id="intel_software_improvement_program">Intel® Software
+                                    Improvement Program</keyword></entry>
+                            <entry>intel_software_improvement_program</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><keyword id="intel_software_manager">Intel® Software
+                                    Manager</keyword></entry>
+                            <entry>intel_software_manager</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><keyword id="ia_32">IA-32</keyword></entry>
+                            <entry>ia_32</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><keyword id="intel_64_architectures">Intel® 64 architectures
+                                </keyword></entry>
+                            <entry>intel_64_architectures</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><keyword id="intel_advisor">Intel® Advisor</keyword></entry>
+                            <entry>intel_advisor</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><keyword id="intel_cluster_checker">Intel® Cluster
+                                    Checker</keyword></entry>
+                            <entry>intel_cluster_checker</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><keyword id="intel_data_analytics_acceleration_library">Intel®
+                                    Data Analytics Acceleration Library</keyword></entry>
+                            <entry>intel_data_analytics_acceleration_library</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><keyword id="intel_mpi_benchmarks">Intel® MPI
+                                    Benchmarks</keyword></entry>
+                            <entry>intel_mpi_benchmarks</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><keyword id="intel_mpi_library">Intel® MPI
+                                Library</keyword></entry>
+                            <entry>intel_mpi_library</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><keyword id="intel_inspector">Intel® Inspector</keyword></entry>
+                            <entry>intel_inspector</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><keyword id="intel_integrated_performance_primitives">Intel®
+                                    Integrated Performance Primitives</keyword></entry>
+                            <entry>intel_integrated_performance_primitives</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><keyword id="intel_trace_analyzer_and_collector">Intel® Trace
+                                    Analyzer and Collector</keyword></entry>
+                            <entry>intel_trace_analyzer_and_collector</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><keyword id="intel_math_kernel_library">Intel® Math Kernel
+                                    Library</keyword></entry>
+                            <entry>intel_math_kernel_library</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><keyword id="intel_performance_snapshot">Intel® Performance
+                                    Snapshot</keyword></entry>
+                            <entry>intel_performance_snapshot</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><keyword id="parallel_stl">Parallel STL</keyword></entry>
+                            <entry>parallel_stl</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><keyword id="intel_threading_building_blocks">Intel® Threading
+                                    Building Blocks</keyword></entry>
+                            <entry>intel_threading_building_blocks</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><keyword id="intel_vtune_amplifier">Intel® VTune
+                                    Amplifier</keyword></entry>
+                            <entry>intel_vtune_amplifier</entry>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry><keyword id="intel_corporation">Intel
+                                Corporation</keyword></entry>
+                            <entry>intel_corporation</entry>
+                            <entry/>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </p>
+    </conbody>
+</concept>

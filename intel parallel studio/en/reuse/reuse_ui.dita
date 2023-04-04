@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="reuse_ui" xml:lang="en">
+    <title translate="no">reuse_ui</title>
+    <conbody>
+        <p>
+            <table frame="all" rowsep="1" colsep="1" id="table_m3v_sy2_1xb">
+                <tgroup cols="3">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <colspec colname="c2" colnum="2" colwidth="1*"/>
+                    <colspec colname="c3" colnum="3" colwidth="1*"/>
+                    <thead>
+                        <row>
+                            <entry translate="no">Element</entry>
+                            <entry translate="no">id</entry>
+                            <entry translate="no">comment</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry><uicontrol id="enter">Enter</uicontrol></entry>
+                            <entry translate="no">enter</entry>
+                            <entry translate="no">key</entry>
+                        </row>
+                        <row>
+                            <entry><uicontrol id="radio">Radio</uicontrol></entry>
+                            <entry translate="no">radio</entry>
+                            <entry translate="no">button</entry>
+                        </row>
+                        <row>
+                            <entry><uicontrol id="welcome_dialog">Welcome</uicontrol></entry>
+                            <entry translate="no">welcome_dialog</entry>
+                            <entry translate="no">dialog</entry>
+                        </row>
+                        <row>
+                            <entry><uicontrol id="missing_optional_prerequisites_window">Missing
+                                    Optional Prerequisite(s)</uicontrol></entry>
+                            <entry translate="no">missing_optional_prerequisites_window</entry>
+                            <entry translate="no">dialog</entry>
+                        </row>
+                        <row>
+                            <entry><uicontrol id="missing_critical_prerequisites"> Missing Critical
+                                    Prerequisite(s)</uicontrol></entry>
+                            <entry>missing_critical_prerequisites</entry>
+                            <entry translate="no">dialog</entry>
+                        </row>
+                        <row>
+                            <entry><uicontrol id="installation_of_open_source_components"
+                                    >Installation of Open Source Components</uicontrol></entry>
+                            <entry>installation_of_open_source_components</entry>
+                            <entry translate="no">dialog</entry>
+                        </row>
+                        <row>
+                            <entry><uicontrol id="complete">Complete</uicontrol></entry>
+                            <entry>complete</entry>
+                            <entry translate="no">dialog</entry>
+                        </row>
+                        <row>
+                            <entry><uicontrol id="save">Save</uicontrol></entry>
+                            <entry translate="no">save</entry>
+                            <entry translate="no">button</entry>
+                        </row>
+                        <row>
+                            <entry><uicontrol id="next">Next</uicontrol></entry>
+                            <entry translate="no">next</entry>
+                            <entry translate="no">button</entry>
+                        </row>
+                        <row>
+                            <entry><uicontrol id="prerequisites">Prerequisites</uicontrol></entry>
+                            <entry translate="no">prerequisites</entry>
+                            <entry translate="no">dialog</entry>
+                        </row>
+                        <row>
+                            <entry><uicontrol id="installation_summary_window">Installation
+                                    Summary</uicontrol></entry>
+                            <entry translate="no">installation_summary_window</entry>
+                            <entry translate="no">dialog</entry>
+                        </row>
+                        <row>
+                            <entry><uicontrol id="customize_installation">Customize
+                                    installation</uicontrol></entry>
+                            <entry translate="no">customize_installation</entry>
+                            <entry translate="no">button</entry>
+                        </row>
+                        <row>
+                            <entry><uicontrol id="install">Install</uicontrol></entry>
+                            <entry translate="no">install</entry>
+                            <entry translate="no">button</entry>
+                        </row>
+                        <row>
+                            <entry><uicontrol id="installation_summary">Installation
+                                    Summary</uicontrol></entry>
+                            <entry>installation_summary</entry>
+                            <entry translate="no">dialog</entry>
+                        </row>
+                        <row>
+                            <entry><uicontrol id="interactive_installation">Interactive
+                                    installation</uicontrol></entry>
+                            <entry translate="no">interactive_installation</entry>
+                            <entry translate="no"/>
+                        </row>
+                        <row>
+                            <entry><uicontrol id="getting_started_page">Getting started
+                                    page</uicontrol></entry>
+                            <entry translate="no">getting_started_page</entry>
+                            <entry translate="no"/>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </p>
+        <table frame="all" rowsep="1" colsep="1" id="table_fgt_ytf_1xb">
+            <title>other elements</title>
+            <tgroup cols="3">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry><uicontrol id="command_line_interface">Command Line
+                                Interface</uicontrol></entry>
+                        <entry>command_line_interface</entry>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry><uicontrol id="command_line_interface_abbre">CLI</uicontrol></entry>
+                        <entry>command_line_interface_abbre</entry>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry><uicontrol id="graphical_user_interface">Graphical User
+                                Interface</uicontrol></entry>
+                        <entry>graphical_user_interface</entry>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry><uicontrol id="graphical_user_interface_abbre"
+                            >GUI</uicontrol></entry>
+                        <entry>graphical_user_interface_abbre</entry>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry><uicontrol id="cluster_edition">Cluster Edition</uicontrol></entry>
+                        <entry>cluster_edition</entry>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry><ph id="silent_installation_mode">silent installation
+                            mode</ph></entry>
+                        <entry>silent_installation_mode</entry>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry><ph id="installation_package">installation package</ph></entry>
+                        <entry>installation_package</entry>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry><ph id="configuration_file">configuration file</ph></entry>
+                        <entry>configuration_file</entry>
+                        <entry/>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>

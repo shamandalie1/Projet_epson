@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="ta_installing_in_command_line_interface_mode">
+    <title>Installing in command line interface mode</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd></cmd>
+            </step>
+        </steps>
+        <result id="result_hcg_wmk_1xb">Following a successful installation, the <xref
+                href="c_getting_started_page.dita">Getting started page</xref> pops-up and the <xref
+                href="r_installation_folders.dita">files associated with Intel® Parallel Studio
+                XE</xref> appear on the host system. </result>
+    </taskbody>
+</task>
