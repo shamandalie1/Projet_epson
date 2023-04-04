@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_system_prerequisites">
+    <title>Prerequisites of the system</title>
+    <refbody>
+        <table id="table_v31_nzf_1xb" colsep="1" rowsep="1">
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>System parameter</entry>
+                        <entry>Condition</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Login account</entry>
+                        <entry>Administrative access</entry>
+                    </row>
+                    <row>
+                        <entry>Installation directory</entry>
+                        <entry>Administrative write privileges</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

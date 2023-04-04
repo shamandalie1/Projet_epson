@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<val>
+    <prop action="exclude" att="product" val="cluster"/>
+    <prop action="exclude" att="product" val="professional"/>
+    <prop action="include" att="product" val="composer"/>
+    <prop action="exclude" att="platform" val="windows_intel"/>
+    <prop action="exclude" att="platform" val="mac_intel"/>
+    <prop action="include" att="platform" val="linux_intel"/>
+</val>

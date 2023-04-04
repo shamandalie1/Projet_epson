@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE subjectScheme PUBLIC "-//OASIS//DTD DITA Subject Scheme Map//EN" "subjectScheme.dtd"> 
+<subjectScheme>
+    <subjectHead>
+        <subjectHeadMeta>
+            <navtitle><!-- Subjectscheme pour guide installation Intel. --></navtitle>
+        </subjectHeadMeta>
+    </subjectHead>
+    <hasInstance>
+        <subjectdef keys="edition">
+            <subjectdef keys="cluster">
+                <topicmeta>
+                    <navtitle>Cluster</navtitle>
+                </topicmeta>
+            </subjectdef>
+            <subjectdef keys="professional">
+                <topicmeta>
+                    <navtitle>Professional</navtitle>
+                </topicmeta>
+            </subjectdef>
+            <subjectdef keys="composer">
+                <topicmeta>
+                    <navtitle>Composer</navtitle>
+                </topicmeta>
+            </subjectdef>
+        </subjectdef>
+    </hasInstance>
+    <hasInstance>
+        <subjectdef keys="OS">
+            <subjectdef keys="windows_intel">
+                <topicmeta>
+                    <navtitle>Windows Intel</navtitle>
+                </topicmeta>
+            </subjectdef>
+            <subjectdef keys="mac_intel">
+                <topicmeta>
+                    <navtitle>Mac Intel</navtitle>
+                </topicmeta>
+            </subjectdef>
+            <subjectdef keys="linux_intel">
+                <topicmeta>
+                    <navtitle>Linux Intel</navtitle>
+                </topicmeta>
+            </subjectdef>
+        </subjectdef>
+    </hasInstance>
+    <enumerationdef>
+        <!-- Bind an attribute to a tree of related values -->
+        <attributedef name="product"/>
+        <subjectdef keyref="edition"/>
+    </enumerationdef>
+    <enumerationdef>
+        <!-- Bind an attribute to a tree of related values -->
+        <attributedef name="platform"/>
+        <subjectdef keyref="OS"/>
+    </enumerationdef>
+</subjectScheme>

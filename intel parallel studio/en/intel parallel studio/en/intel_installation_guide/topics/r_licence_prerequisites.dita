@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_licence_prerequisites">
+    <title>Prerequisites of the license</title>
+    <shortdesc>List of license parameters to acknowledge before using Intel® Parallel Studio
+        XE.</shortdesc>
+    <refbody>
+        <table id="table_tzy_lnf_1xb" colsep="1" rowsep="1">
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c3" colnum="2" colwidth="2.59*"/>
+                <thead>
+                    <row>
+                        <entry>License parameters</entry>
+                        <entry>Information</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Limit</entry>
+                        <entry>Each license allows the installation of the software in up to three
+                                systems.<note id="note_cfn_gpf_1xb" type="tip">After reaching the
+                                limit, delete one system host ID from the registration system to
+                                free an installation in the license.</note></entry>
+                    </row>
+                    <row>
+                        <entry>Location</entry>
+                        <entry>
+                            <codeph>EULA.txt</codeph> at
+                                <codeph>&lt;install_dir>/parallel_studio_xe_&lt;version>.x.xxx/licensing</codeph></entry>
+                    </row>
+                    <row>
+                        <entry>Registration procedure</entry>
+                        <entry>Procedure documentation available in the <xref
+                                href="https://www.intel.com/content/www/us/en/developer/get-help/faq-licensing.html"
+                                format="html" scope="external">Licensing FAQ Page</xref></entry>
+                    </row>
+                    <row>
+                        <entry>Activation procedure</entry>
+                        <entry>Procedure documentation available in the <xref
+                                href="https://www.intel.com/content/www/us/en/developer/get-help/faq-licensing.html"
+                                format="html" scope="external">Licensing FAQ Page</xref></entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>
