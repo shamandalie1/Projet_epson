@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Intel Parallel Studio XE Installation Guide <ph platform="linux_intel">for <ph>Linux
+        OS</ph></ph> - <ph product="cluster">Cluster</ph><ph product="composer"
+            >Composer</ph><ph product="professional">Professional</ph> edition</title>
+    <topicmeta>
+        <author>Lena MARLIER</author>
+        <author>Cassandra LANGE</author>
+        <author>Roxana PEREZ</author>
+        <author>Maëva PETIT</author>
+        <author>Andrea MOLANO</author>
+        <copyright>
+            <copyryear year="2011"/>
+            <copyryear year="2018"/>
+            <copyrholder>Intel Corporation</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2018-10-18"/>
+            <revised modified="2023-04-03"/>
+        </critdates>
+        <metadata>
+            <prodinfo>
+                <prodname>Intel Parallel Studio XE</prodname>
+                <series>2018</series>
+                <featnum>Update 4</featnum>
+            </prodinfo>
+            <othermeta name="DOC_ID" content="IPSXE_01"/>
+        </metadata>
+    </topicmeta>
+    <topicref href="topics/c_product_description.dita"/>
+    <topicref href="topics/t_installation_prerequisites.dita">
+        <topicref href="topics/r_licence_prerequisites.dita"/>
+        <topicref href="topics/r_system_prerequisites.dita"/>
+    </topicref>
+    <topicref href="topics/t_preparation_of_the_installation.dita">
+        <topicref href="topics/ta_creating_a_staging_area.dita"/>
+        <topicref href="topics/r_review_options_of_the_installer.dita"/>
+        <topicref href="topics/r_installation_methods.dita">
+            <topicref href="topics/c_single_cluster_installation.dita"/>
+            <topicref href="topics/c_distributed_installation.dita">
+                <topicref href="topics/ta_configuring_a_distributed_installation.dita"/>
+            </topicref>
+        </topicref>
+        <topicref href="topics/ta_establishing_secure_shell_connectivity.dita"/>
+    </topicref>
+    <topicref href="topics/t_installation.dita">
+        <topicref href="topics/c_installers.dita">
+            <topicref href="topics/c_offline_installer.dita"/>
+            <topicref href="topics/c_online_installer.dita">
+                <topicref href="topics/ta_downloading_a_customized_installation_package.dita"/>
+                <topicref href="topics/ta_choosing_an_installation_mode_in_the_online_installer.dita"/>
+            </topicref>
+        </topicref>
+        <topicref href="topics/t_installation_modes.dita">
+            <topicref href="topics/c_insteractive_installation_modes.dita">
+                <topicref href="topics/ta_installing_in_command_line_interface_mode.dita"/>
+                <topicref href="topics/ta_installing_in_graphical_user_interface_mode.dita"/>
+            </topicref>
+            <topicref href="topics/c_silent_installation_mode.dita">
+                <topicref href="topics/ta_installing_in_silent_installation_mode.dita"/>
+            </topicref>
+        </topicref>
+    </topicref>
+    <topicref href="topics/ta_uninstalling.dita"/>
+    <topicref href="topics/t_appendix.dita">
+        <topicref href="topics/c_expect_shell_script_file_process.dita"/>
+        <topicref href="topics/c_getting_started_page.dita"/>
+        <topicref href="topics/r_installation_folders.dita"/>
+        <topicref href="topics/c_intel_cluster_checker.dita"/>
+    </topicref>
+    <topicref href="topics/t_legal_information.dita" toc="no"/>
+</map>
