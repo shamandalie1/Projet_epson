@@ -3,9 +3,12 @@
 <topic id="t_installation">
     <title>Installation</title>
     <body>
-        <p>This is a test to see if this thing works.</p>
-        <p><xref href="c_installers.dita" format="dita"/></p>
-        <p>hehe</p>
+        <p>J'ai modifié ça.</p>
+        <p><xref href="c_offline_installer.dita" format="dita"/></p>
+        <p>J'ai modifié ça</p>
+        <p>Click <uicontrol conref="../../reuse/reuse_ui.dita#reuse_ui/enter"/></p>
+        <p>click <uicontrol conref="../../reuse/reuse_ui.dita#reuse_ui/radio"/></p>
+        <p>gegeg</p>
         <fig id="fig_xwq_wrm_1xb">
             <image placement="break" href="../../images/image%20loc.png" id="image_mfs_xrm_1xb"/>
         </fig>
